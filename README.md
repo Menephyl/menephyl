@@ -40,6 +40,12 @@
   <a href = "https://ymenephyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/menephyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+As Confucius once said:
+
+It does not matter how slowly you go as long as you do not stop.
+
+I also love the concept of positive thinking, and The Need To Eliminate Negative Self Talk (as mentioned in Affirmations for Positive Thinking.)
 <!--
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 **Menephyl/menephyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
