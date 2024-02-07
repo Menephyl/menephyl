@@ -14,7 +14,23 @@
 </div>
  
 <br>
- 
+  <pre>
+    
+        <code>
+    let tipoTexto = 'Texto';
+    let tipoNumero = 12;
+    let verdadeiro = true;
+    let falso = false;
+    let tipoNulo = null;
+    let tipoIndefinido;
+    typeof tipoTexto;
+    typeof tipoNumero;
+    typeof verdadeiro;
+    typeof falso;
+    typeof tiponulo;
+    typeof tipoIndefinido;
+        </code>
+    </pre>
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
