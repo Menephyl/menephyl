@@ -14,8 +14,14 @@
 </div>
  
 <br>
+<p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
+
+<blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
+  <p>It does not matter how slowly you go as long as you do not stop.</p>
+</blockquote>
+
+<p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
   <pre>
-    
         <code>
     let tipoTexto = 'Texto';
     let tipoNumero = 12;
@@ -41,11 +47,7 @@
   <a href="https://www.linkedin.com/in/menephyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-As Confucius once said:
 
-It does not matter how slowly you go as long as you do not stop.
-
-I also love the concept of positive thinking, and The Need To Eliminate Negative Self Talk (as mentioned in Affirmations for Positive Thinking.)
 <!--
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 **Menephyl/menephyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
