@@ -1,6 +1,12 @@
 ### Welc0me t0 the Yan Menephyl's github page👋
 ## Bem-vindo(a) ao perfil do Yan Menephyl😁
+<p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
 
+<blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
+  <p>It does not matter how slowly you go as long as you do not stop.</p>
+</blockquote>
+
+<p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
  <div>
    <a href="https://github.com/menephyl">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menephyl&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
@@ -14,13 +20,7 @@
 </div>
  
 <br>
-<p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
 
-<blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
-  <p>It does not matter how slowly you go as long as you do not stop.</p>
-</blockquote>
-
-<p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
   <pre>
         <code>
     let tipoTexto = 'Texto';
