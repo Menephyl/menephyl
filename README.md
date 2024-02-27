@@ -1,6 +1,6 @@
 ### Welcome to Yan Menephyl's github page👋
 ## Bem-vindo(a) ao perfil do Yan Menephyl😁
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=449deb63&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=720&lines=+Hey+There!+My+name+is+Yan!+%F0%9F%91%8B;Im+Developer+Front-End;I+search+estagio+opportunities%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=449deb63&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=720&lines=+Hey+There!+My+name+is+Yan!+%F0%9F%91%8B;Im+Developer+Front-End.;I+search+estagio+opportunities%F0%9F%91%8B)](https://git.io/typing-svg)
 <p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
 
 <blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
