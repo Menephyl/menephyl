@@ -1,4 +1,4 @@
-### Welc0me t0 the Yan Menephyl's github page👋
+### Welcome to Yan Menephyl's github page👋
 ## Bem-vindo(a) ao perfil do Yan Menephyl😁
 <p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
 
@@ -6,7 +6,10 @@
   <p>It does not matter how slowly you go as long as you do not stop.</p>
 </blockquote>
 
+
+
 <p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
+🔭 I’m currently working on [Cv Resume Portifolio](https://github.com/Menephyl/Y_portifolioY)
  <div>
    <a href="https://github.com/menephyl">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menephyl&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
@@ -46,7 +49,9 @@
   <a href = "https://ymenephyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/menephyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br>
 
+![](https://komarev.com/ghpvc/?username=mariana549&color=blueviolet&style=for-the-badge&label=CONTADOR)
 
 <!--
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
