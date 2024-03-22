@@ -6,6 +6,7 @@
 <blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
   <p>It does not matter how slowly you go as long as you do not stop.</p>
 </blockquote>
+ <em class="side-em"> Thanks to visit! 😀</em> 
 
 
 
