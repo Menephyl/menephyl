@@ -60,7 +60,8 @@ if (mes ==1 || mes ==3|| mes ==5 || mes==7|| mes ==8 ||mes==9 ||mes==10|| mes ==
 
         </code>
     </pre>
-  
+  Olá, de modo objetivo peço uma oportunidade de obter alguma qualificação que a sua empresa deseja. Para as atividades que a empresa deseja sou altamente capaz e fiz cursos de competência em nível básico do pacote Office,  incluindo PowerPoint e os que a empresa deseja, respeitando as normas da ABNT atualizadas. Posso mostrar provas práticas durante a entrevista e estou disponível para aprender qualquer nova tecnologia que seja necessária para agradar sua empresa. 
+Att: Yan Isonel Pereira
 ![](lineBar.png)
 ##   For more content. 📫 How to reach me:
 ### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
