@@ -1,6 +1,6 @@
 ### Welcome to Yan Menephyl's github page👋
-## Bem-vindo(a) ao perfil do Yan Menephyl😁
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=449deb63&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=720&lines=+Hey+There!+My+name+is+Yan!+%F0%9F%91%8B;Im+Developer+Front-End.;I+search+estagio+opportunities%F0%9F%91%8B)](https://git.io/typing-svg)
+## Bem-vindo(a) ao perfil do Yan Menephyl⚡
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=449deb63&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=720&lines=+Hey+There!+My+name+is+Yan!+%F0%9F%91%8B;Im+Developer+Front-End.;Call+me+to+partnership%F0%9F%91%8B)](https://git.io/typing-svg)
 <p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
 
 <blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
@@ -9,19 +9,17 @@
  <em class="side-em"> Thanks to visit! 😀</em> 
 
 
-- 🌱 I’m currently learning in https://github.com/rodolfomori-devclub...
+- 🌱 I’m currently learning in <a>https://github.com/rodolfomori-devclub...</a>
 <p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
 
 ![](lineBar.png)
 
-🔭 I’m currently working on []() 🎓
->
+🔭 I’m currently working on []()  🎓[<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
+
  🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
+[<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
 
-[<img align="center" alt="HTML5" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[<img align="center" alt="JSX" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://reactjs.org/docs/introducing-jsx.html)
 >
  <div>
    <a href="https://github.com/menephyl">
@@ -30,12 +28,16 @@
 </div>
      
  ## 🚀 My Skills:
- ### 🚀 Treinamento em:
+ ### 🚀 Tenho Treinamento em:
 <div style="display: inline_block"><br>
+    <img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<a><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+
+  
 </div>
 
 ![](lineBar.png)
@@ -45,8 +47,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-        </code>
-    </pre>
+    
   Olá, 
  Sou Yan e estou em transição de carreira aprimorando minhas hard e front skills buscando a excelência! Tenho habilidades em Javascript, React com vite, yarn e npm(node), Html5, bem como projetos de página uníca, versionamento com Git e Github
 Att: Yan Isonel Pereira
@@ -80,4 +81,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ <a src="https://github.com"></a> <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(1)" />
+
+[<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">](https://git-scm.com)
+
+[<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org)
+
+[<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">](https://www.w3schools.com/sql)
+
+[<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">](https://learn.microsoft.com/dotnet/csharp)
+
+[<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
+
 -->
