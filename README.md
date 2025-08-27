@@ -9,14 +9,19 @@
  <em class="side-em"> Thanks to visit! 😀</em> 
 
 
-
+- 🌱 I’m currently learning in https://github.com/rodolfomori-devclub...
 <p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
 
 ![](lineBar.png)
 
-🔭 I’m currently working on [Cv Resume Portifolio](https://github.com/Menephyl/Y_portifolioY) 🎓
+🔭 I’m currently working on []() 🎓
 >
- 🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) 
+ 🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+[<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
+
+[<img align="center" alt="HTML5" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[<img align="center" alt="JSX" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://reactjs.org/docs/introducing-jsx.html)
 >
  <div>
    <a href="https://github.com/menephyl">
@@ -30,6 +35,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ![](lineBar.png)
@@ -37,30 +43,12 @@
  #### Ferramentas de Desenvolvedor 🔭
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br>
 
-  <pre>
-        <code>
-  let ano = 1988 // programa que le o mes e o ano e retorna quantos dias esse mês tem
-let mes = 3 
-if (mes ==1 || mes ==3|| mes ==5 || mes==7|| mes ==8 ||mes==9 ||mes==10|| mes ==12){
-    console.log('31 Dias!')
-}else if(mes >12||mes<1){
-    console.log('Mês inválido!')
-}else if(mes ==4||mes ==6||mes==9||mes==11){
-    console.log('30 Dias!')
-}else if(mes ==2){
-    let anoBissexto =((ano%4 ==0 )&& (ano%100!=0)||(ano%400==0))
-    if(anoBissexto){
-        console.log('29 Dias!')
-    }else{
-        console.log('28 Dias!')
-    }
-}
 
         </code>
     </pre>
-  Olá, de modo objetivo peço uma oportunidade de obter alguma qualificação que a sua empresa deseja. Para as atividades que a empresa deseja sou altamente capaz e fiz cursos de competência em nível básico do pacote Office,  incluindo PowerPoint e os que a empresa deseja, respeitando as normas da ABNT atualizadas. Posso mostrar provas práticas durante a entrevista e estou disponível para aprender qualquer nova tecnologia que seja necessária para agradar sua empresa. 
+  Olá, 
+ Sou Yan e estou em transição de carreira aprimorando minhas hard e front skills buscando a excelência! Tenho habilidades em Javascript, React com vite, yarn e npm(node), Html5, bem como projetos de página uníca, versionamento com Git e Github
 Att: Yan Isonel Pereira
 ![](lineBar.png)
 ##   For more content. 📫 How to reach me:
