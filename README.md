@@ -20,7 +20,6 @@
 [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
 [<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
 
->
  <div>
    <a href="https://github.com/menephyl">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menephyl&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
@@ -45,6 +44,8 @@
  #### Ferramentas de Desenvolvedor 🔭
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<img  src="https://camo.githubusercontent.com/8a61ef97622df78c36d2ac0c400be9d154e0a756137e6752117de9bc1a78660a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" align="center" alt="figma" height="30" width="40">
+>
 
 
     
