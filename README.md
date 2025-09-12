@@ -14,11 +14,12 @@
 
 ![](lineBar.png)
 
-🔭 I’m currently working on []()  🎓[<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
+🔭 I’m currently working on https://github.com/Menephyl/cadastro_usuarios🎓
 
  🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
-[<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
+[<img align="center" alt="TypeScript" height="30" width="40"
+<a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
 
  <div>
    <a href="https://github.com/menephyl">
