@@ -14,7 +14,8 @@
 
 ![](lineBar.png)
 
-🔭 I’m currently working on https://github.com/Menephyl/cadastro_usuarios🎓
+🔭 I’m currently working on 🎓 https://github.com/Menephyl/cadastro_usuarios
+
 
  🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
