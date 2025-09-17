@@ -10,24 +10,19 @@
 
 
 - 🌱 I’m currently learning in <a>https://github.com/rodolfomori-devclub...</a>
+ -> Studying  BackEnd with <a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  ,  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> and   <img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> for FrontEnd
 <p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
 
 ![](lineBar.png)
 
-🔭 I’m currently working on 🎓 https://github.com/Menephyl/cadastro_usuarios
+🔭 I’m currently working on 🎓 https://github.com/Menephyl/cadastro_usuarios   and https://github.com/Menephyl/node-notes
 
 
  🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
-[<img align="center" alt="TypeScript" height="30" width="40"
-<a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
+<a src="https://nodejs.org">
 
- <div>
-   <a href="https://github.com/menephyl">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menephyl&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menephyl&layout=compact&langs_count=6&theme=holi"/>
-</div>
-     
+
  ## 🚀 My Skills:
  ### 🚀 Tenho Treinamento em:
 <div style="display: inline_block"><br>
@@ -71,6 +66,13 @@ Att: Yan Isonel Pereira
 ![](lineBar.png)
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 <!--
+
+ [<div>
+   <a href="https://github.com/menephyl">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menephyl&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menephyl&layout=compact&langs_count=6&theme=holi"/>
+</div>
+     ](url)
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 **Menephyl/menephyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
