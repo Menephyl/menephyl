@@ -15,11 +15,10 @@
 
 ![](lineBar.png)
 
-🔭 I’m currently working on 🎓 https://github.com/Menephyl/cadastro_usuarios   and https://github.com/Menephyl/node-notes
+🔭 I’m currently working on 🎓 https://github.com/Menephyl/Y_portifolioY 
 
 
- 🌱 I’m currently focusing on [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-[<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
+ 🌱 I’m currently focusing on IA  | N8N AND [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
 <a src="https://nodejs.org">
 
 
