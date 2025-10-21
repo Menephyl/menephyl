@@ -17,8 +17,8 @@
 ![](lineBar.png)
 
 🔭 I’m currently working on 🎓 <a href="https://github.com/Menephyl/sylvanas_e--commerce" target="_blank">SYLVANAS E-COMMERCE</a> ,
-🔭  🎓  <a href="[https://github.com/Menephyl/sylvanas_e--commerce](https://github.com/Menephyl/Menephyl_dev_burguer)" target="_blank">DEVBURGUER</a>                    AND
-🔭 🎓<a href="[https://github.com/Menephyl/sylvanas_e--commerc](https://github.com/Menephyl/menephyl_dev_burguer_api)" target="_blank">DEVBURGUER API</a>
+🔭  🎓  <a href="https://github.com/Menephyl/Menephyl_dev_burguer" target="_blank">DEVBURGUER</a>                    AND
+🔭 🎓<a href="https://github.com/Menephyl/menephyl_dev_burguer_api" target="_blank">DEVBURGUER API</a>
 
  🌱 I’m currently focusing on IA  | N8N AND [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
 <a src="https://nodejs.org">
