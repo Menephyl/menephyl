@@ -56,12 +56,12 @@
  Sou Yan e estou em transição de carreira aprimorando minhas hard e front skills buscando a excelência! Tenho habilidades em Javascript, React com vite, yarn e npm(node), Html5, bem como projetos de página uníca, versionamento com Git e Github
 Att: Yan Isonel Pereira
 ![](lineBar.png)
-##   For more content. 📫 How to reach me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 ### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
  
 <div> 
   <a href="https://www.youtube.com/@ymenephyl1909" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/yanxmenephyl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ýan_menephyl_works" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4hhttps:knightofthunder" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://ymenephyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/menephyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
