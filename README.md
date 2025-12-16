@@ -16,8 +16,8 @@
 
 ![](lineBar.png)
 
-🔭 I’m currently working on 🎓 <a href="https://github.com/Menephyl/brazukas_delivery" target="_blank"> DELIVERY BRAZUKAS</a> , FINISHING <a href="https://github.com/Menephyl/ebook" target="_blank">ebook Manual </a><BR>
-<a href="https://github.com/Menephyl/sylvanas_e--commerce" target="_blank">SYLVANAS E-COMMERCE</a> ,
+🔭 I’m currently working on 🎓 <a href="https://github.com/Menephyl/brazukas_delivery" target="_blank"> DELIVERY BRAZUKAS</a> 
+
 🔭  🎓  <a href="https://github.com/Menephyl/Menephyl_dev_burguer" target="_blank">DEVBURGUER</a>                    AND
 🔭 🎓<a href="https://github.com/Menephyl/menephyl_dev_burguer_api" target="_blank">DEVBURGUER API</a>
 
@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -53,19 +53,20 @@
 
 
     
-  Olá, 
- Sou Yan e estou em transição de carreira aprimorando minhas hard e front skills buscando a excelência! Tenho habilidades em Javascript, React com vite, yarn e npm(node), Html5, bem como projetos de página uníca, versionamento com Git e Github
+
 Att: Yan Isonel Pereira
 ![](lineBar.png)
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 ### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
  
 <div> 
-  <a href="https://www.youtube.com/@ymenephyl1909" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@menephylDev](https://www.youtube.com/@menephyDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/ýan_menephyl_works" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4hhttps:knightofthunder" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://ymenephyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/menephyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/menephyl.settings/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+  
 </div>
 <br>
 
