@@ -7,6 +7,7 @@
   <p>It does not matter how slowly you go as long as you do not stop.</p>
 </blockquote>
  <em class="side-em"> Thanks to visit! 😀</em> 
+ [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/Menephyl/))
 
 
 - 🌱 I’m currently learning in <a>https://github.com/rodolfomori-devclub...</a>
@@ -30,6 +31,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img  align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
 <a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,6 +45,7 @@
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Menephyl&theme=dark&hide_border=false"/>
 </div>
 
 ![](lineBar.png)
@@ -50,7 +53,8 @@
  #### Ferramentas de Desenvolvedor 🔭
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
     
 
