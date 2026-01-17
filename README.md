@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Yan Menephyl
 
 <div align="center">
-  <img src="assets/github_banner.png" alt="Yan Menephyl Banner" width="100%">
+  <img src="assets/github_banner.png" alt="Yan Menephyl Banner" width="100%" height="200px">
   
   <br/>
 
