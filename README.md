@@ -1,114 +1,129 @@
-### Welcome to Yan Menephyl's github page👋
-## Bem-vindo(a) ao perfil do Yan Menephyl⚡
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rodada+Varela&weight=500&size=32&duration=4991&pause=1&color=449deb63&background=FFFFFF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=verdadeiro&width=720&lines=+Hey+There!+My+name+is+Yan!+%F0%9F%91%8B;Im+Developer+Front-End.;Call+me+to+partnership%F0%9F%91%8B)](https://git.io/typing-svg)
-<p> As <a href="http://www.brainyquote.com/quotes/authors/c/confucius.html"><cite>Confucius</cite></a> once said:</p>
-
-<blockquote cite="http://www.brainyquote.com/quotes/authors/c/confucius.html">
-  <p>It does not matter how slowly you go as long as you do not stop.</p>
-</blockquote>
- <em class="side-em"> Thanks to visit! 😀</em> 
- [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]((https://github.com/Menephyl/))
-
-
-- 🌱 I’m currently learning in <a>https://github.com/rodolfomori-devclub...</a>
-
- -> Studying  BackEnd with <a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> and   <img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> for FrontEnd
-<p>I also love the concept of positive thinking, and <q cite="http://www.affirmationsforpositivethinking.com/index.htm">The Need To Eliminate Negative Self Talk</q> (as mentioned in <a href="http://www.affirmationsforpositivethinking.com/index.htm"><cite>Affirmations for Positive Thinking</cite></a>.)</p>
-
-![](lineBar.png)
-
-🔭 I’m currently working on 🎓 <a href="https://github.com/Menephyl/brazukas_delivery" target="_blank"> DELIVERY BRAZUKAS</a> 
-
-🔭  🎓  <a href="https://github.com/Menephyl/Menephyl_dev_burguer" target="_blank">DEVBURGUER</a>                    AND
-🔭 🎓<a href="https://github.com/Menephyl/menephyl_dev_burguer_api" target="_blank">DEVBURGUER API</a>
-
- 🌱 I’m currently focusing on IA  | N8N AND [<img align="center" alt="Js" height="22" width="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) [<img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org)
-<a src="https://nodejs.org">
-
-
- ## 🚀 My Skills:
- ### 🚀 Tenho Treinamento em:
-<div style="display: inline_block"><br>
-    <img align="center" alt="React" height="22" width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img  align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-<a src="https://nodejs.org"><img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></a>  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<a><img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-
-  
-</div>
-
-## 📊 GitHub Stats
+# 👋 Olá, eu sou o Yan Menephyl
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=Menephyl&theme=dark&hide_border=false"/>
-</div>
-
-![](lineBar.png)
- ### **Developer Tools** 🔭
- #### Ferramentas de Desenvolvedor 🔭
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-    
-
-Att: Yan Isonel Pereira
-![](lineBar.png)
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
-### Pra conteúdo sobre programação bora de chat nas redes abaixo: 📫 
- 
-<div> 
-  <a href="https://www.youtube.com/@menephylDev](https://www.youtube.com/@menephyDev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/ýan_menephyl_works" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4hhttps:knightofthunder" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://ymenephyl@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/menephyl" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/menephyl.settings/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+  <img src="assets/github_banner.png" alt="Yan Menephyl Banner" width="100%">
   
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Entusiasta+de+IA;Especialista+em+React;Node.js+Developer)](https://git.io/typing-svg)
 </div>
-<br>
 
-![](https://komarev.com/ghpvc/?username=mariana549&color=blueviolet&style=for-the-badge&label=CONTADOR)
-![](lineBar.png)
-https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-<!--
+---
 
- [<div>
-   <a href="https://github.com/menephyl">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menephyl&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menephyl&layout=compact&langs_count=6&theme=holi"/>
+### 🚀 Sobre Mim
+
+Sou um Desenvolvedor Front-End apaixonado por criar experiências digitais incríveis e funcionais. Atualmente, estou expandindo meus horizontes no mundo do **Back-End** com Node.js e explorando o potencial da **Inteligência Artificial** com ferramentas como N8N.
+
+- 🎓 Estudando intensamente no **DevClub** (Rodolfo Mori).
+- 💡 Focado em criar aplicações escaláveis e performáticas.
+- 🔭 Atualmente trabalhando em projetos de Delivery e E-commerce.
+- ⚡ Curiosidade: Acredito fortemente no poder do pensamento positivo e na evolução constante.
+
+---
+
+### 🛠️ Minhas Tecnologias
+
+<div align="center">
+  
+  **Frontend**
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+  **Backend & Database**
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+  **Tools & Others**
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
-     ](url)
-https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-**Menephyl/menephyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 Projetos em Destaque
 
- <a src="https://github.com"></a> <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="filter: invert(1)" />
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Menephyl/portifolio2.0">
+        <strong>✨ Portfólio 2.0</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Menephyl&repo=portifolio2.0&theme=dark" alt="Portfolio 2.0">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Menephyl/brazukas-delivery-mvp">
+        <strong>🚚 Brazukas Delivery</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Menephyl&repo=brazukas-delivery-mvp&theme=dark" alt="Brazukas Delivery">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Menephyl/menephyl_dev_burguer_api">
+        <strong>🍔 Dev Burguer API</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Menephyl&repo=menephyl_dev_burguer_api&theme=dark" alt="Dev Burguer API">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Menephyl/moda-e-commerce">
+        <strong>👗 Moda E-commerce</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Menephyl&repo=moda-e-commerce&theme=dark" alt="Moda E-commerce">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">](https://git-scm.com)
+---
 
-[<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">](https://nodejs.org)
+### 📊 Estatísticas do GitHub
 
-[<img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">](https://www.w3schools.com/sql)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=6&theme=nord" />
+</div>
 
-[<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">](https://learn.microsoft.com/dotnet/csharp)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Menephyl&theme=nord&hide_border=false" alt="GitHub Streak" />
+</div>
 
-[<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">](https://www.typescriptlang.org)
+---
 
--->
+### 📫 Vamos Conversar?
+
+Sinta-se à vontade para me chamar para parcerias, dúvidas ou apenas para trocar uma ideia sobre tecnologia!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/menephyl" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/yan_menephyl_works" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@menephylDev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="mailto:ymenephyl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://discord.gg/5DVhGKVf4h" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Feito com ❤️ por Yan Menephyl</sub><br/>
+  <img src="https://komarev.com/ghpvc/?username=Menephyl&color=00D1FF&style=flat-square&label=VISITAS" alt="Contador de Visitas">
+</div>
