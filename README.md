@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <h3>🚀 Transformando código em Lucro, Escalabilidade e Resultados Reais</h3>
+  <h3>🚀 Transformando código em Lucro, Escalabilidade e Resultados Real</h3>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;AI+Solutions+Expert;Product+Focused+Developer;Building+Future+Scalability)](https://git.io/typing-svg)
 
@@ -32,18 +32,24 @@
 Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco está em entender a dor do negócio e entregar soluções técnicas que gerem **ROI (Retorno sobre Investimento)**. Acredito que a tecnologia só cumpre seu papel quando soma valor às pessoas e multiplica o lucro das empresas.
 
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
-      <td align="left">
+      <td align="left" valign="top" width="45%">
         <strong>🌍 Open To:</strong><br/>
-        ✔️ Freelancers (Projetos de impacto)<br/>
-        ✔️ Projetos SaaS (Escalabilidade)<br/>
-        ✔️ Produtos Digitais (Inovação)<br/>
+        ✔️ Freelancers (Impacto)<br/>
+        ✔️ Projetos SaaS (Escala)<br/>
+        ✔️ Produtos Digitais<br/>
         ✔️ Oportunidades Internacionais<br/>
-        ✔️ Parcerias Tech (Colaboração)
+        ✔️ Parcerias Tech
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=6&theme=nord&hide_border=true" height="150px" />
+      <td align="left" valign="top" width="45%">
+        <strong>🚀 Expertise em Ação:</strong><br/>
+        🐛 Correção de bugs<br/>
+        ✨ Novas features<br/>
+        📚 Documentação<br/>
+        🚀 Deploy/Publicação<br/>
+        🎨 Melhorias de UI/UX<br/>
+        ⚡ Performance | 🧪 Testes
       </td>
     </tr>
   </table>
@@ -54,7 +60,7 @@ Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco est
 ### 🛠️ Hard Skills (Stack Geradora de Valor)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,vite,ts,tailwind,nodejs,postgres,mysql,prisma,docker,yarn,npm,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,next,vite,ts,tailwind,nodejs,postgres,mysql,prisma,docker,yarn,npm,git,figma,vscode" width="100%" />
 </div>
 
 <br/>
@@ -65,42 +71,38 @@ Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco est
 
 ---
 
-### 🌟 Projetos de Alto Impacto (Destaques)
+### 🌟 Projetos de Alto Impacto (Cards Individuais)
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Menephyl/a-plataforma-Prime-Team">
-        <strong>⚡ Prime Team Platform</strong><br/>
-        <img src="./assets/prime_team.png" alt="Prime Team" width="100%"><br/>
-        <i>Plataforma de gestão de alta performance.</i>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Menephyl/01-Brazukas-System">
-        <strong>🚚 Brazukas System</strong><br/>
-        <img src="./assets/brazukas_system.png" alt="Brazukas System" width="100%"><br/>
-        <a href="https://brazukas-delivery-mvp.vercel.app/">[Ver Site Ao Vivo]</a>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Menephyl/portifolio2.0">
-        <strong>✨ Portfolio 2.0</strong><br/>
-        <img src="./assets/portfolio_v2.png" alt="Portfolio" width="100%"><br/>
-        <i>Interface State-of-the-Art focada em UX/UI.</i>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Menephyl/moda-e-commerce">
-        <strong>👗 Moda E-commerce</strong><br/>
-        <img src="./assets/brazukas_system.png" alt="E-commerce" width="100%"><br/>
-        <i>Solução completa de checkout e gestão.</i>
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- PROJETO 1 -->
+<div align="center">
+  <a href="https://github.com/Menephyl/a-plataforma-Prime-Team">
+    <img src="./assets/prime_team.png" alt="Prime Team" width="100%">
+    <h3>⚡ Prime Team Platform</h3>
+  </a>
+  <p>Plataforma de gestão de alta performance. Otimizada para escalabilidade e produtividade de times.</p>
+</div>
+
+<br/>
+
+<!-- PROJETO 2 -->
+<div align="center">
+  <a href="https://github.com/Menephyl/01-Brazukas-System">
+    <img src="./assets/brazukas_system.png" alt="Brazukas System" width="100%">
+    <h3>🚚 Brazukas System</h3>
+  </a>
+  <p>Sistema completo de logística e delivery. <br/> <a href="https://brazukas-delivery-mvp.vercel.app/">[Acesse a Demo Ao Vivo]</a></p>
+</div>
+
+<br/>
+
+<!-- PROJETO 3 -->
+<div align="center">
+  <a href="https://github.com/Menephyl/portifolio2.0">
+    <img src="./assets/portfolio_v2.png" alt="Portfolio" width="100%">
+    <h3>✨ Portfolio 2.0</h3>
+  </a>
+  <p>Interface State-of-the-Art focada em UX/UI, demonstrando expertise em frontend moderno.</p>
+</div>
 
 ---
 
@@ -111,7 +113,7 @@ Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco est
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ---
