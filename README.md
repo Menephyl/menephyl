@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Yan Menephyl
 
 <div align="center">
-  <img src="assets/github_banner.png" alt="Yan Menephyl Banner" width="100%" height="200px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Yan%20Menephyl&fontSize=70&fontColor=00D1FF&desc=Desenvolvedor%20Front-End%20%7C%20Entusiasta%20de%20IA&descSize=20&descAlignY=75&animation=fadeIn" alt="Yan Menephyl Banner" width="100%" height="200px">
   
   <br/>
 
