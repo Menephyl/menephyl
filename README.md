@@ -12,10 +12,17 @@
   <br/>
 
   <a href="./assets/yan_isonel_full_stack.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_BAIXAR_CURRÍCULO-00D1FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV">
+    <img src="https://img.shields.io/badge/📄_VER_CURRÍCULO-00D1FF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Ver Currículo">
   </a>
   <a href="https://www.linkedin.com/in/menephyl" target="_blank">
-    <img src="https://img.shields.io/badge/CONECTAR_NO_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@menephylDev" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <br/>
+  <a href="https://www.buymeacoffee.com/menephyl" target="_blank">
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
 
@@ -24,44 +31,41 @@
 ### 💡 Sobre Minha Atuação
 Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco está em entender a dor do negócio e entregar soluções técnicas que gerem **ROI (Retorno sobre Investimento)**. Acredito que a tecnologia só cumpre seu papel quando soma valor às pessoas e multiplica o lucro das empresas.
 
-- 📈 **Foco em Resultado:** Desenvolvimento orientado a métricas e performance.
-- 🤝 **Sinergia:** Trabalho focado em somar com o time, mentorar e evoluir processos.
-- 🛠️ **Arquitetura Inteligente:** Especialista em criar sistemas escaláveis (Node.js/React) e automações de IA (N8N/VPS).
+<div align="center">
+  <table>
+    <tr>
+      <td align="left">
+        <strong>🌍 Open To:</strong><br/>
+        ✔️ Freelancers (Projetos de impacto)<br/>
+        ✔️ Projetos SaaS (Escalabilidade)<br/>
+        ✔️ Produtos Digitais (Inovação)<br/>
+        ✔️ Oportunidades Internacionais<br/>
+        ✔️ Parcerias Tech (Colaboração)
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=6&theme=nord&hide_border=true" height="150px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🛠️ Hard Skills (Stack Geradora de Valor)
 
 <div align="center">
-  
-  **Frontend**
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=react,next,vite,ts,tailwind,nodejs,postgres,mysql,prisma,docker,yarn,npm,git,figma,vscode" />
+</div>
 
-  **Backend & Database**
-  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<br/>
 
-  **Tools & Ecosystem**
-  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![VPS/N8N](https://img.shields.io/badge/IA_Automações-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-
+<div align="center">
+  <em>Focado em ferramentas que garantem agilidade e performance industrial.</em>
 </div>
 
 ---
 
-### 🌟 Projetos de Alto Impacto
+### 🌟 Projetos de Alto Impacto (Destaques)
 
 <table align="center">
   <tr>
@@ -69,7 +73,7 @@ Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco est
       <a href="https://github.com/Menephyl/a-plataforma-Prime-Team">
         <strong>⚡ Prime Team Platform</strong><br/>
         <img src="./assets/prime_team.png" alt="Prime Team" width="100%"><br/>
-        <i>Plataforma de gestão de alta performance para times.</i>
+        <i>Plataforma de gestão de alta performance.</i>
       </a>
     </td>
     <td width="50%" align="center">
@@ -92,7 +96,7 @@ Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco est
       <a href="https://github.com/Menephyl/moda-e-commerce">
         <strong>👗 Moda E-commerce</strong><br/>
         <img src="./assets/brazukas_system.png" alt="E-commerce" width="100%"><br/>
-        <i>Solução completa de checkout e gestão de produtos.</i>
+        <i>Solução completa de checkout e gestão.</i>
       </a>
     </td>
   </tr>
@@ -107,8 +111,7 @@ Não sou apenas um desenvolvedor; sou um **parceiro estratégico**. Meu foco est
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menephyl&layout=compact&langs_count=6&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Menephyl&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
 </div>
 
 ---
