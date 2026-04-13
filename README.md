@@ -1,22 +1,22 @@
-# 👋 Olá, eu sou o Yan Menephyl
+# Bem vindo! sou Yan Isonel Pereira! Bora lucrar?
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Yan%20Menephyl&fontSize=70&fontColor=00D1FF&desc=Desenvolvedor%20Front-End%20%7C%20Entusiasta%20de%20IA&descSize=20&descAlignY=75&animation=fadeIn" alt="Yan Menephyl Banner" width="100%" height="200px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Yan%20Menephyl&fontSize=70&fontColor=00D1FF&desc=Desenvolvedor%20Full-Stack%20%7C%20Gestor%20de%20IA&descSize=20&descAlignY=75&animation=twinling" alt="Yan Menephyl Banner" width="100%" height="200px">
   
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Entusiasta+de+IA;Especialista+em+React;Node.js+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Entusiasta+de+IA;EspecialstaTypescript+React;Node.js+Developer)](https://git.io/typing-svg)
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Sou um Desenvolvedor Front-End apaixonado por criar experiências digitais incríveis e funcionais. Atualmente, estou expandindo meus horizontes no mundo do **Back-End** com Node.js e explorando o potencial da **Inteligência Artificial** com ferramentas como N8N.
+Full Stack apaixonado por criar experiências digitais incríveis e funcionais. Atualmente, estou expandindo meus horizontes no mundo do **Back-End** com Node.js + Express e explorando o potencial da **Inteligência Artificial** com ferramentas como N8N dentro de VPS.
 
-- 🎓 Estudando intensamente no **DevClub** (Rodolfo Mori).
-- 💡 Focado em criar aplicações escaláveis e performáticas.
-- 🔭 Atualmente trabalhando em projetos de Delivery e E-commerce.
+- 🎓 Estudando intensamente React, MVC e Automações
+- 💡 Focado em trazer resultados através de aplicações escaláveis e performáticas.
+- 🔭 Atualmente trabalhando em projetos de Delivery e Agentes de IA
 - ⚡ Curiosidade: Acredito fortemente no poder do pensamento positivo e na evolução constante.
 
 ---
@@ -113,7 +113,7 @@ Sinta-se à vontade para me chamar para parcerias, dúvidas ou apenas para troca
   <a href="https://www.youtube.com/@menephylDev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="mailto:ymenephyl@gmail.com">
+  <a href="mailto:isoyan.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://discord.gg/5DVhGKVf4h" target="_blank">
@@ -126,4 +126,6 @@ Sinta-se à vontade para me chamar para parcerias, dúvidas ou apenas para troca
 <div align="center">
   <sub>Feito com ❤️ por Yan Menephyl</sub><br/>
   <img src="https://komarev.com/ghpvc/?username=Menephyl&color=00D1FF&style=flat-square&label=VISITAS" alt="Contador de Visitas">
+
+  ⭐ Se gostou, deixe uma estrela nos meus repositórios! Isso me motiva a criar ainda mais conteúdo incrível.
 </div>
